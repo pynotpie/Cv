@@ -1,0 +1,52 @@
+h1, h2, h3 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+p {
+  font-family: 'Waterfall', cursive;
+  font-weight: bold;
+  background-color: #A8DB92;
+  font-size: 3em;
+}
+
+.newtable {
+  border: solid 2px #417D80;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+.firsttable {
+  border-spacing: 20px;
+}
+
+.star1 {
+  opacity: 0.2;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  color: #fff;
+  min-height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  font-family: 'Waterfall', cursive;
+  font-size: 2em;
+}
+
+caption {
+  padding: 10px;
+  caption-side: bottom;
+  font-family: 'Waterfall', cursive;
+  font-size: 2em;
+}
+
+td {
+  padding-right: 20px;
+}
